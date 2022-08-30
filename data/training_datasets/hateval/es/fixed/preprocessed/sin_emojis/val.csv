@@ -1,0 +1,501 @@
+,Unnamed: 0,ID,Target,Tweet,label,categorical,polarity,subjectivity
+0,0,20005,Hate,Me estoy comiendo la picada rabe ms rica de mi vida,0,CATEGORICAL,0,0
+1,1,20006,Hate,Callate zorra y mama duro!,1,CATEGORICAL,0,0
+2,2,20011,Hate,"Acabo de escuchar a Casado diciendo que hay DECENAS DE MILLONES de subsaharianos ahora mismo reuniendo dinero para venir a Europa. No s qu me asusta ms, que este idiota diga esas cosas o que haya tantos tarados deseando crerselas.",0,CATEGORICAL,0,0
+3,3,20019,Hate,"Y NADIE SE HA PREGUNTADO LO QUE LE VA A COSTAR AL HOMBRE DEL GUANTAZO LA SITUACION..?!? PORQUE SEGURO ES, QUE EL MENDA MUSULMONO LE VA A PONER UNA DENUNCIA, QUE EL FALLO VA A SER ""CULPABLE"", QUE UNA PANDILLA DE MUSULMONOS LE VA A ESTAR ESPERANDO DELANTE DE LA PUERTA DE SU NEGOCIO",1,CATEGORICAL,0,0
+4,4,20033,Hate,"Callate come sobra, ms zorra son las tuyas",1,CATEGORICAL,0,0
+5,5,20039,Hate,te quiero hacer mi reina rabe bomboncitocaramel,0,CATEGORICAL,0,0
+6,6,20046,Hate,cllate perra JAJAJAJAJAJA,1,CATEGORICAL,0,0
+7,7,20047,Hate,"En ""La Reina del Sur"" de , el personaje del ""Gero"" Dvila tambien lleva un registro en cuaderno los detalles de todos los vuelos realizados transportando droga. Esto le cuesta finalmente su vida.",0,CATEGORICAL,0,0
+8,8,20063,Hate,"Vieja zorra imbcil y MENTIROSA, que nos cree unos solemnes cojudos. Seor Lenin, por favor dignifique al Ecuador, pobres, pero no en la cloaca robolucionaria!!",1,CATEGORICAL,0,0
+9,9,20101,Hate,"tu eres un hijo de puta pervertido y pedofilo, una lacra que se debe exterminar, basura de mierda, no mereces vivir",0,CATEGORICAL,0,0
+10,10,20111,Hate,"A, que la zorra est va de matona por la vida? Jajajaja. Pero si de un soplido la desgracias al adefesio ese!",1,CATEGORICAL,0,0
+11,11,20124,Hate,Mira hijo de puta mejor cllate la gran jeta malparido a ella y a cualquier virgen la pueden vestir como le den la gana t eres el culpable de esta desgracia de que callo sobre Venezuela y eso no lo vamos a olvidar hijo de puta,0,CATEGORICAL,0,0
+12,12,20127,Hate,Una ta no es una guarra por hacer una foto de su culo y t eres un puto nazi que no s qu hace respirando.,0,CATEGORICAL,0,0
+13,13,20138,Hate,Ea pues ya solo falta que Albert Rivera vaya a Algeciras a abrazarte con los inmigrantes subsaharianos,1,CATEGORICAL,0,0
+14,14,20142,Hate,"Claro, es un hoyo(coo) que se abre con una tuneladora(polla) sin consentimiento de la naturaleza. Una macabra violacin de libro.",0,CATEGORICAL,0,0
+15,15,20148,Hate,Racismo es que hagas enfrijoladas con frijoles geros y no negros.,0,CATEGORICAL,0,0
+16,16,20161,Hate,Cada puta semana igual. La puta carpeta. Estoy hasta el moo de Cepeda. No se mereca quedarse. Ojal hagis un poquito de autocrtica todos los que lo apoyais.,0,CATEGORICAL,0,0
+17,17,20162,Hate,"*chica sper sufriendo* 'Cielo, la menstruacin es una bendicin, no una maldicin' Mira, zorra, cllate",1,CATEGORICAL,0,0
+18,18,20175,Hate,"Ay Dios cuando se entere Casado de que la ola de calor viene dada por la entrada masiva, sin papeles, de aire subsahariano",1,CATEGORICAL,0,0
+19,19,20188,Hate,Hasta el coo xD,0,CATEGORICAL,0,0
+20,20,20210,Hate,"T eres la puta Beyonc siempre, querido",0,CATEGORICAL,0,0
+21,21,20213,Hate,"Perra te lo mereces, esa presentacin de WORK BICTH estuvo a tu altura, por fin le hiciste justicia a la cancin y al lbum Britney Jean al presentar la cancin en un programa de TV luciendo hermosa, acuerpada y subliminal",1,CATEGORICAL,0,0
+22,22,20232,Hate,"T eres la perra, no te dejes engaar.",1,CATEGORICAL,0,0
+23,23,20241,Hate,Cllate la concha de tu hermana puta,1,CATEGORICAL,0,0
+24,24,20255,Hate,la puta madre que te re mil pari Rocco callate,0,CATEGORICAL,0,0
+25,25,20265,Hate,Tema inmigracin de Venezuela como estamos y que bebemos hacer ayer mire un programa con abogados pidiendo abrir un estudio con todos ellos pera trabajar en Argentina no es como mucho que antecedentes tienen que hacemos con los nuestros es un tema a mirar antes que nos estalle,1,CATEGORICAL,0,0
+26,26,20288,Hate,T eres la zorra Antoniaaaaaaaa,1,CATEGORICAL,0,0
+27,27,20302,Hate,Es correcto una cosa es acoso pero una violacion Pau tiene razn es delicafob,0,CATEGORICAL,0,0
+28,28,20303,Hate,Imbecil eres t. Ya scate ese rancho de la cabeza. Miles de nias nios y jvenes padecen de acoso en lnea y en la vida real. Pendejadas como esas que tuiteas mantienen vivo el odio hacia jvenes glbti. Muchos que no tienen ni gua o protecc,0,CATEGORICAL,200,300
+29,29,20305,Hate,Callate vos sos capaz de venderte zorra....,1,CATEGORICAL,0,0
+30,30,20307,Hate,tu eres lesbi Ana xk no as probaddo mi polla,1,CATEGORICAL,0,0
+31,31,20315,Hate,As piensan todos los putos moros de mierda que vienen s este pas. Asco,1,CATEGORICAL,0,0
+32,32,20337,Hate,Ni armar un complot para matar un presidente saben... ..,1,CATEGORICAL,0,0
+33,33,20340,Hate,"Deja tu dolor, maldito resentido. T eres la primera perra magayllinera que siempre est pendiente de lo que hace Leones. A tu madre la cogi un caraquista y ese es tu resentimiento, pajuo?",1,CATEGORICAL,0,0
+34,34,20341,Hate,"A mi si me ensearon a compartir, perra!!!",1,CATEGORICAL,0,0
+35,35,20353,Hate,La diferencia entre comida mexicana y la comida rabe es que una te da diarrea y otra te de diarrea explosiva,1,CATEGORICAL,0,0
+36,36,20370,Hate,"Para romperles la puta cara que asco dais, os merecis lo peor que os pase por babosos, machistas y cerdos de mierda que sois algunos.",0,CATEGORICAL,0,0
+37,37,20376,Hate,"Zorra tu abuela, imbcil.",0,CATEGORICAL,0,0
+38,38,20399,Hate,CALLATE MALDITA ZORRA. ESTOY MUY NERVIOSO.,1,CATEGORICAL,0,0
+39,39,20400,Hate,"El karma existe, algn da recibirs lo que mereces por haber sido tan hijx de puta",0,CATEGORICAL,0,0
+40,40,20414,Hate,"Mira, estoy MUY HASTA LA PUTA POLLA de ver coreanos en mi TL solo porque Twitter decide que es buena idea ensearme los putos likes de la gente, de verdad, hasta los putos cojones de ver a los tontos estos.",0,CATEGORICAL,0,0
+41,41,20429,Hate,LA PUTA MADRE POR FINN CHIELLINI PURO LOCO GRACIAS BENATIA TE MERECES EL PINCHE CIELO Vamos Juventus,0,CATEGORICAL,0,0
+42,42,20430,Hate,amigos SAIME mi nombre es walter perez V-13.899.989 wperez001.com y desde el /03/2017 que fui a cita aun no me imprimen el pasaporte estoy indocumentado en el extranjero ayuda porfavor lo necesito urgente gracias .,0,CATEGORICAL,0,0
+43,43,20451,Hate,"La historia popular se la inventa el pueblo. Ella decide inventarse su parte, aprovechando para provocar a gente como t. Yo soy un tio y me molesta ver como os poneis a corregir ciertas gilipolleces mientras q luego os escandaliza",0,CATEGORICAL,600,900
+44,44,20458,Hate,Dice claramente mi novia es sevillista y es una puta ms ... Evidentemente se refiere a las sevillistas como putas,1,CATEGORICAL,0,0
+45,45,20464,Hate,"Me alegro de lo que le pas a ese puto negro Colombiano en Tetela del volcn, por extorsionar a gente de mi pas aunque no soy poblano pero me alegro y eso deberan hacer con todos los sudacas y centroamricanos que vienen a delinquir a mi pas... Hijos de puta lacras.",1,CATEGORICAL,0,0
+46,46,20496,Hate,JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA LA PUTA MADRE TE LO MERECES POR USARME COMO MEME SIEMPRE,0,CATEGORICAL,0,0
+47,47,20511,Hate,Terrible tema para activar rabe de papichamp jaajaaja,0,CATEGORICAL,-1000,1000
+48,48,20516,Hate,"so q le deca a simon poxyran q su novia es re linda y q estoy enamorada de juan, la re puta madre si tan solo fuese real",0,CATEGORICAL,200,300
+49,49,20526,Hate,"Triunfador. Tus publicaciones en redes sociales son todo un xito, ya te vi que subiste muchas fotos con el guitarrista gero del ano, chingo de me encorazonas. Es hora de celebrarlo de la mejor manera, comprando algo en Amazon o de perdido en Mercado Libre",0,CATEGORICAL,0,0
+50,50,20536,Hate,"Y ms rosas y ms sonrisas. Mujeres gritando zorra y guarra, se puede ser ms imbcil?",1,CATEGORICAL,0,0
+51,51,20539,Hate,"De msica rabe, Rachid Taha y su cancin ""Ya Rayah"", hermosa cancin y de la voz ni se diga...",0,CATEGORICAL,0,0
+52,52,20552,Hate,"La gente que opina sobre el aborto y que jams ha sido madre, que no ha pasado por alguna violacion o acoso o...",0,CATEGORICAL,0,0
+53,53,20565,Hate,Hay que ser tonto para poner el tuit de la bomba con la foto del nio con la polla en la cara un mashup de baneos,0,CATEGORICAL,0,0
+54,54,20573,Hate,"No hubo provocacin, no hubo respuesta. Pero estos hijos de puta tiras piedras y rompen las vallas, que no lloren cuando los caguen a palos",0,CATEGORICAL,0,0
+55,55,20579,Hate,"Desde tocoron perra , tu eres culpable de esto",1,CATEGORICAL,0,0
+56,56,20584,Hate,"Mientras, los inmigrantes con todo tipo de ayudas. Ms de millones de espaoles viven con menos de euros al mes va",1,CATEGORICAL,0,0
+57,57,20590,Hate,pues abre grande el ocico perra que te la voy a meter y me vendre en tu cara de zorra pendeja sin dignidad,1,CATEGORICAL,0,0
+58,58,20591,Hate,"Jajajajaja pero esta seora que le pasa. No son refugiados son inmigrantes ilegales. Si piensas tratar a todos los pobres por refugiados creo que deberias observar un poco a tu alrededor y ver que aqui hay mucha gente pobre que no les conceden ese ""estatuto"" del que hablas",1,CATEGORICAL,0,0
+59,59,20603,Hate,"Enserio salvaron a Piquin?Vigna se re mereca ser salvada,la coreo transmiti alegra y FUE HERMOSA.La re puta madre",0,CATEGORICAL,0,0
+60,60,20612,Hate,"Embajada de Venezuela en Emiratos Arabes Unidos condena el atentado terrorista contra el Presidente . El mundo arabe condena este vil acto Nuestro pais, nuestro pueblo, no daran cabida a tan miserable accion",0,CATEGORICAL,-1000,1000
+61,61,20617,Hate,MMMMM TU NADA MS KERIAS ENSEAR LAS CHCHIS PINCHE BIEJA PUTA!!!!,1,CATEGORICAL,0,0
+62,62,20620,Hate,ESTOS NEGRATAS ASQUEROSOS Y NO PASA NADA ANDA QUE SI LO HACE UN BLANQUITO LAS FEMI NACIS SE LOS COMEN,1,CATEGORICAL,0,0
+63,63,20623,Hate,Cllate perra,1,CATEGORICAL,0,0
+64,64,20644,Hate,Que injusto... hijos de puta no merecais ni el empate xd,0,CATEGORICAL,0,0
+65,65,20650,Hate,"Que te calles y a la crcel, eso es lo que tienes que hacer de una puta vez",0,CATEGORICAL,0,0
+66,66,20652,Hate,"callate zorra seguro fue para uno de tus chicos, pero no importa porque a mi me amas mas y seguro extraas mis abrazos, fin.",1,CATEGORICAL,0,0
+67,67,20657,Hate,"ESTO NO SE PUEDE PERMITIR NI TOLERAR, QUE VAYAN HA HACER EL SALVAJE A SU PUETERO PAIS ESTAN POR CIVILIZAR! NO? - En : Ms de guardias civiles heridos, algunos por cal viva, tras el salto a la valla de Ceuta",1,CATEGORICAL,0,0
+68,68,20686,Hate,Vamos hacerlo' No te ensearon que va un conector en el medio hijo de puta!,0,CATEGORICAL,0,0
+69,69,20711,Hate,eso es culpa de los gobiernos corruptos que tienen arreglos con esta escoria. Ojal se muera la perra esa...,1,CATEGORICAL,0,0
+70,70,20717,Hate,"Para qu no lees, tu eres el hijo de perra",0,CATEGORICAL,0,0
+71,71,20720,Hate,Cllate perra al rato empedamos,1,CATEGORICAL,0,0
+72,72,20737,Hate,Que por cierto Danna Paola tu eres una gata asquerosa y una soportable zorra celosa yo soy fan de camy G y la defiendo sea quien sea el olla y slo soy un chavo an as la defiendo me leeiste y me oistes Danna Paola babosa,1,CATEGORICAL,0,0
+73,73,20738,Hate,Cllate maldita escoria! Acaso no sabes con quin hablas?! Hablas con Baron explodo kills el mejor hroe de U.A quien destrozara tu jodida cara de mierda! Har que te arrepientas y te metas tus asquerosas idioteces por el orto!,0,CATEGORICAL,0,0
+74,74,20741,Hate,Cllate zorra hdp,1,CATEGORICAL,0,0
+75,75,20747,Hate,Una morra puso su foto de perfil donde sale bieeeeeen perra enseando chicheee y nalga... Pero alvvvvvvvv las patas de hobitt que pedooooooooo,1,CATEGORICAL,0,0
+76,76,20748,Hate,"Nunca se ha reconocido un ""derecho de retorno"" similar a un colectivo de refugiados en todo el mundo y, de hecho, en ningn momento se plante -ni se plantea- algo similar para los ms de judos que fueron expulsados de pases rabes tras la independencia de Israel",0,CATEGORICAL,0,400
+77,77,20749,Hate,"Una persona guarra es alguien que no mantiene una correcta higiene personal, qu tiene eso que ver con ensear el cuerpo?",0,CATEGORICAL,0,300
+78,78,20750,Hate,por la Revolucin y los en . en primera lnea de la rabe.,0,CATEGORICAL,0,0
+79,79,20751,Hate,Ayer en charlamos con una seora marroqu y nos coment que estn bastante hartos con la ilegal subsahariana. Les ocupan las viviendas vacas y luego tienen que acudir al Juzgado a echar a los okupas,1,CATEGORICAL,0,0
+80,80,20794,Hate,Los vascos son de Puta madre SIEMPRE. Tu eres un hideputa.,0,CATEGORICAL,0,0
+81,81,20800,Hate,"Solo a un ladito, en cuatro, penetrarte como te mereces puta, perra divina, la ms zorra! Y despus voltearte y echarte la leche en la garganta, casi sin poder respirar, que llores y goces mientras sientes la leche caliente bajando por tu garga",1,CATEGORICAL,0,0
+82,82,20803,Hate,Lo de llamarles intelectuales de la cosmtica es de Traka. Xddd! Coo Panten Hago con mi coo Lo que quiero,0,CATEGORICAL,0,0
+83,83,20813,Hate,Callate vos pedazo de escoria,0,CATEGORICAL,0,0
+84,84,20814,Hate,"si no te baas no esperes cobrar ni la cena, hasta los guapos apestan.",0,CATEGORICAL,0,0
+85,85,20819,Hate,LA INMIGRACIN LEGAL SLO SATISFACE EL % DE LAS NECESIDADES DE LA AGRICULTURA,0,CATEGORICAL,200,200
+86,86,20824,Hate,Te gusta la comida rabe? Aprende cmo se hace el Falafel,0,CATEGORICAL,0,0
+87,87,20833,Hate,dices que eres super puta porque le diste tu numero a un chamo que ni conocas ... cllate nia rata,1,CATEGORICAL,333,666
+88,88,20835,Hate,Que bueeeen quilombo jajaajaj. Te lo merecias por zorra,1,CATEGORICAL,0,0
+89,89,20837,Hate,"Zorra terrorista, imbcil e ignorante sos vos.",1,CATEGORICAL,0,0
+90,90,20861,Hate,"Iglesias, Carmena, Otero, Bardem y Wyoming ofrecen sus residencias a los inmigrantes de Ceuta",0,CATEGORICAL,0,0
+91,91,20865,Hate,Solo hago lo q me ensearon Ser una,0,CATEGORICAL,0,0
+92,92,20872,Hate,"NO ES CULPA MIA UUUUO, LA ZORRA DE TU NOVIA QUIERE ARRANCAR, NO ES CULPA MIA, UUUUO",1,CATEGORICAL,0,0
+93,93,20873,Hate,Funcionaria denuncia acoso y violacin en el Poder Judicial: 'Me violaron una docena de veces' -,0,CATEGORICAL,0,0
+94,94,20918,Hate,El vicepresidente de la Diputacin de Alicante se disculpa tras pedir deportaciones masivas de inmigrantes,0,CATEGORICAL,0,0
+95,95,20922,Hate,'Bandera de Espaa' La escoria como vosotros no os merecis otra cosa.,0,CATEGORICAL,0,0
+96,96,20928,Hate,"Hoy en DIVERSITAS Universos Diversos Nos visita Paulo Knig, Juez de Tw. Nos preparamos para el Agenda, invitacin y pauelazo",0,CATEGORICAL,0,0
+97,97,20933,Hate,Es que no sois conscientes algunos de lo mal que lo pasan los perros por culpa de los petardos de la polla,0,CATEGORICAL,0,0
+98,98,20935,Hate,LA PUTA CALLATE QUE QUIERO TENER EL PELO NARANJAAA Y ME VA A QUEDAR HORRIBLE PORQUE SOY NEGRA,0,CATEGORICAL,-1000,1000
+99,99,20940,Hate,CUANDO ESTS DE NOVIA ES NORMAL QUE UNA PERSONA SE PONGA TANNNNN HIJA DE PUTA??????,0,CATEGORICAL,150,649
+100,100,20942,Hate,"Nerea callate la puta boca, y aprende a jugar ms campeones chone",0,CATEGORICAL,0,0
+101,101,20943,Hate,Jajja no digas tonteras. Jordi le ha respondido de puta madre.,0,CATEGORICAL,0,0
+102,102,20946,Hate,"Todo pas debe supervisar al inmigrante, lamentablemente estos parsitos posiblemente cometieron delitos en pero la anarqua actual los complace para que sigan delinquiendo.",1,CATEGORICAL,0,100
+103,103,20951,Hate,Bizcocho rabe De Coco {Sin Azcar},0,CATEGORICAL,0,0
+104,104,20952,Hate,Callate la jeta perra que de este ao no pasas,0,CATEGORICAL,0,0
+105,105,20953,Hate,"la nacionalidad mal otorgada y con comportamientos no adientes y sin voluntad de integrarse etc..se puede retrotraer, as que menos happy inmigrantes porque les queda lo que se quede Sanchez",1,CATEGORICAL,800,1000
+106,106,20981,Hate,PUTA ANA CLLATE ZORRA.,1,CATEGORICAL,0,0
+107,107,20986,Hate,Y t eres un autntico No hables de lo que no tienes ni puta idea,0,CATEGORICAL,0,0
+108,108,20990,Hate,Como queda Arabe de Ecko.,0,CATEGORICAL,0,0
+109,109,21015,Hate,la perra y pega cuernos del grupo la callada pero peligrosa le vale verga y rompe corazones,1,CATEGORICAL,0,0
+110,110,21034,Hate,"Cllate zorra, t ya tienes a tus MB, deja a los mos",1,CATEGORICAL,0,0
+111,111,21044,Hate,Rt asi vuelvo a Calafate jajajajjsjajs,0,CATEGORICAL,0,0
+112,112,21050,Hate,Callate puta rata ya estas llorando??,0,CATEGORICAL,0,0
+113,113,21066,Hate,mIRA TU CALLATE PUTA,1,CATEGORICAL,0,0
+114,114,21072,Hate,"Voy andando por la calle y me han dicho cosas en rabe ya que me estas acosando dime lo en espaol para que te entienda, asique como yo no les entiendo me he cagado en su puta madre en rabe para que ellos a mi si.",1,CATEGORICAL,0,0
+115,115,21076,Hate,"CLLATE PERRA, HIJA DE PERRA, SOS UNA PERRA",1,CATEGORICAL,0,0
+116,116,21077,Hate,"Para cuando pones a Maduro en l frontera? Q se sepa el esta indocumentado ya que no tiene PdN legitima. L q mostro Tibitrampa es un fraude ya q la mama dicese venezolana, pero ella nunca se nacionalizo. Cuando cumples el encargo maleante?",0,CATEGORICAL,0,0
+117,117,21081,Hate,"Yo, Cide Hamete Benengeli, escrib la historia de un caballero moro, enamoradizo y aventurero; ms algn mal cristiano dio a la imprenta en Madrid una traduccin infiel que poco y nada tiene que ver con la tradicin de las noches rabes.",0,CATEGORICAL,0,0
+118,118,21100,Hate,parece que vuestro postureo en Ceuta parece que no ha colado,0,CATEGORICAL,0,0
+119,119,21104,Hate,los espaoles deberan avivarse y vender los subsaharianos a arabia saudita...,1,CATEGORICAL,0,0
+120,120,21116,Hate,"Oliverga Mierdanez, t eres un retrazado mental, escoria, T & tus dolos que estn llevando a las masas a la ignorancia! Todos los terramierdistas son la m*erda del universo! RETRASADOS MENTALES!! Gente sin entendimiento! Muranse terrami",0,CATEGORICAL,-305,200
+121,121,21124,Hate,A la mujer bscala delgada y limpia que gorda y guarra ella se volver.,1,CATEGORICAL,0,0
+122,122,21144,Hate,Jiditi pir ni vinir... pero callate puta d mierda,1,CATEGORICAL,0,0
+123,123,21149,Hate,que te calles la puta boca hombre (hecho con el teclado ese que va a voz sabes no se como se llama pero ese),0,CATEGORICAL,0,0
+124,124,21152,Hate,Cllate vos Black and bitch como la puta falsa abogada. Espero se pudra en la crcel y devuelva todo. Dedcate a estudiar en serio. La droga es mala. Cristina puta,1,CATEGORICAL,-166,433
+125,125,21155,Hate,"Como coo se va a resistir la pobre chica con tios violabdola DESGRACIDO !!!!!!!!!!!!!!!!!!!!!!!!!! No eres mejor que ellos para nada, verguenza te debera dar! Verguenza!!!!!!!!!!!!!!!",0,CATEGORICAL,0,0
+126,126,21169,Hate,Pues el remake de Alf que parece que estn preparando tendra mucho sentido si la familia es hispana y sin papeles.,0,CATEGORICAL,0,0
+127,127,21170,Hate,"Estoy emocionado como puede haber tanta hermandad entre arabes y judios... A parte la barbarie, solo el odio puede unirles...",0,CATEGORICAL,0,0
+128,128,21172,Hate,Si claro... sus mentiras han dejado en la pobreza al pueblo mexicano. Cllate zorra priista,1,CATEGORICAL,0,0
+129,129,21215,Hate,"Que tal otro aporte annimo son de la puta de mi esposa, as los dej en navidad enseando le los calzones al vecino rt y siguenos",1,CATEGORICAL,0,0
+130,130,21221,Hate,Gero nalgas prietas,0,CATEGORICAL,0,0
+131,131,21222,Hate,yo: cerebro cllate de una puta vez con star wars cerebro: ( ) cerebro: te das cuenta de que... yo: mira ni se te ocurra cerebro: ... si darth vader no hubiera reventado alderaan kylo sera un prncipe disney,0,CATEGORICAL,-750,1000
+132,132,21228,Hate,Mirar n buen trasero o un buen escote es acoso??,0,CATEGORICAL,0,0
+133,133,21238,Hate,en mi corazn Baja del cielo a abrazarme gera DEP,0,CATEGORICAL,0,0
+134,134,21249,Hate,"No tienes ni puta idea. Lo que dices no es cierto. Solo podrn ser repatriados con los pases que Espaa tiene un convenio. A los subsaharianos no se les reaptria. A los marroques , s",0,CATEGORICAL,0,0
+135,135,21255,Hate,Y t eres una maldita escoria con una repugnante inclinacin por los hombres.. Seres como t me producen nuseas!,0,CATEGORICAL,0,0
+136,136,21257,Hate,"Si la suerte me abandona y ves que estoy un poco triste, es que t eres una zorra y un buitre no come alpiste.",1,CATEGORICAL,0,0
+137,137,21263,Hate,"BBC News Mundo - Cmo es Shams Rad, la nica estacin de radio gay del mundo rabe",0,CATEGORICAL,416,583
+138,138,21269,Hate,Ahhh.siiii...el idiota de antes. Te paso las fotos de esta noche. Tu eres un hijo de puta especial. Pra ti si....,0,CATEGORICAL,0,0
+139,139,21277,Hate,"Es una stira... pero que est muy cera de ser realidad. Tengan cuidado con los islamitas, porque poco a poco los van a conquistar ""pacficamente"", y cuando reaccionen va a ser demasiado tarde. SOLUCIN: SACAR a todos los refugiados de Espaa y de EUROPA, y enviarlos a ARABIA.",1,CATEGORICAL,0,0
+140,140,21282,Hate,callate perra arrepentida,1,CATEGORICAL,0,0
+141,141,21284,Hate,Tu sabes porque a las mujeres hay que enterralas en un atauld triangular? Porque cuando les tapas la luz se abren de piernas.,1,CATEGORICAL,0,0
+142,142,21297,Hate,es que t eres LA perra MAYOR,1,CATEGORICAL,0,0
+143,143,21305,Hate,"T explicas el patriarcado como ""simios negratas"" no vengas a exigir nada a las explicaciones de otras cuando se ha explicado desde hace aos",1,CATEGORICAL,0,0
+144,144,21327,Hate,"Es gracioso pensar que android saldra as y en iphone pasara como el smbolo rabe, que se va el terminal directamente a la verga we",0,CATEGORICAL,0,0
+145,145,21333,Hate,"en londres hay una crisis con los refugiados sirios que violan nias. Qu haras si uno viola a tu hija y la polica te llama r... No tengo hijas disculpa, te equivocaste de persona.... No se que hara, tratara de buscarlas...",1,CATEGORICAL,0,0
+146,146,21335,Hate,hola rubius te sigo desd qUE TE CALLES LA PUTA BOCA A QUIEN LE IMPORTA,0,CATEGORICAL,0,0
+147,147,21339,Hate,"La , como sabemos, es mala, se ha demostrado en media . Pero no debemos caer en la tentacin de salpicar nuestra con extremismos, tenemos que defender lo nuestro, si, pero desde posiciones conservadoras y no radicales. Es lo mejor. RP",1,CATEGORICAL,0,0
+148,148,21351,Hate,Cllate pelotuda imbcil si sos hermosa la prxima te pego te amo bye,1,CATEGORICAL,0,0
+149,149,21387,Hate,"Disfruta de tu evento!! Nosotros te lo organizamos, banquetes; men de tiempos, taquizas, flautas, tacos rabes, bar de ensaladas, waffles bar, etc, con gusto te atenderemos!!",0,CATEGORICAL,0,0
+150,150,21398,Hate,Cuando regresa la gera Limantur? Por fa!!! Una pequea aparicin en,0,CATEGORICAL,0,0
+151,151,21402,Hate,Geros,0,CATEGORICAL,0,0
+152,152,21417,Hate,"Q pasa en,Q tenemos sindicatos de manteros ,como se puede estar sindicado sin tener papeles ni pasaportes ni nada Q acrediten de donde son y quin son",1,CATEGORICAL,0,0
+153,153,21433,Hate,EN TU CARA ZORRA,1,CATEGORICAL,0,0
+154,154,21438,Hate,.... Que Tu Eres Bien Puta,1,CATEGORICAL,0,0
+155,155,21440,Hate,Ex colaboradora de fustiga a por llamar tonteras escndalos de acoso sexual,0,CATEGORICAL,500,833
+156,156,21449,Hate,"chicxs, les recomiendo que vean los vdeos de este canal y vean los vdeos de Middle Ground. sientan a personas con diferentes puntos de vistas para hablen de esos temas y cranme que han sido los mejores video que he visto. hay pro-Trump y inmigrantes proaborto y provida",0,CATEGORICAL,0,0
+157,157,21455,Hate,Me llamo Nobita Me gusta Shizuka La chica es bonita Me gusta esa puta,1,CATEGORICAL,0,0
+158,158,21469,Hate,"Un jugador de mi equipo canta 'mi novia es sevillista y es una puta ms' tras el derbi. Pide perdn y la gente le dice que no debe disculparse, que son cnticos normales de la rivalidad. Y luego nos sorprendemos de que pasen las cosas que pasan...",1,CATEGORICAL,0,0
+159,159,21491,Hate,AAAAAAA VANEEEEE LA PUTA MADRE FELICITACIONES HERMOSA!!! Te lo re mereces,0,CATEGORICAL,0,0
+160,160,21493,Hate,ya callate te voy a bloquear hijo de puta,0,CATEGORICAL,0,0
+161,161,21497,Hate,Talvez quede como zorra pero te lo mereces Socia,0,CATEGORICAL,0,0
+162,162,21535,Hate,critica duramente a Les da la bienvenida como si fuera un cartel del welcome de Expulsin inmediata de moromierdas!,1,CATEGORICAL,1000,900
+163,163,21565,Hate,T eres un hijo de puta y t madre bien lo sabe.,0,CATEGORICAL,0,0
+164,164,21571,Hate,T eres puta bebas lo que bebas,1,CATEGORICAL,0,0
+165,165,21598,Hate,"TU ERES EL PRIMERO QU AGREDES Y AMORDAZA, ADAPTAS LOS SUPUESTOS DELITOS COMO OS SALE DE LA POLLA.MENOS LOBOS Y MAS DEMOCRACIA QUE NO CONOCEN NI RESPETAN.",0,CATEGORICAL,0,0
+166,166,21599,Hate,Como dicen Si no tienes algo bueno que decir mejor callate y matate maldita perra arrogante o como era?,1,CATEGORICAL,0,0
+167,167,21603,Hate,"Pobre JP no se merecia ser traicionado de esa forma tan ruin y sucia, esa zorra que iba de enamorada pero luego lo vota traicio... Pero si Ashley no iba de enamorada, JP era un perrito faldero de Chrissy as que nose donde ves q...",1,CATEGORICAL,0,0
+168,168,21612,Hate,"Exacto. Guarra y egosta, que el que venga detrs se busque la vida.",1,CATEGORICAL,0,0
+169,169,21616,Hate,Agentes de la Patrulla Fronteriza de USA detuvo a un grupo de inmigrantes en el desierto del suroeste de .,0,CATEGORICAL,0,0
+170,170,21617,Hate,"y si quienes la violasen fuesen moros de mierda mas gusto les daria a los putos nazis que lo verian. En el fondo las putas son ellos que como hace tiempo que no follan, joden con la lengua nazi que tienen. Os gusta mas esta ?",1,CATEGORICAL,0,0
+171,171,21619,Hate,Callate la boca burro maldito... Q vas a saber tu q contenan las proclamas d Bolivar.... Hijo de la gran puta maldito Burro,0,CATEGORICAL,0,0
+172,172,21622,Hate,Lo estaba retando a facundo y me grita 'sh puta callate'! Pendejo del orto me quiere hacer callar y siquiera le sale pronunciarlo bien!,0,CATEGORICAL,0,0
+173,173,21631,Hate,"Criminalizar a los manteros es redundante; los manteros son delincuentes y forman parte de una cadena de crimen organizado detrs de la cual hay inmigrantes ilegales, mafias, empresarios nacionales, y, cmo no, polticos.",1,CATEGORICAL,0,0
+174,174,21637,Hate,Para ser gata estas lejos... Eres perra o zorra imbcil.,1,CATEGORICAL,0,0
+175,175,21643,Hate,El socialismo de los europeos es aceptable. La URSS se destacaba en muchas cosas. Pero la izquierda sudaka es lo peor del planeta. Sobretodo con el sincretismo satnico africano. Piedad Crdoba es todo eso.,1,CATEGORICAL,0,0
+176,176,21660,Hate,tu te mereces mas que un escarnio publico hija de perra,0,CATEGORICAL,0,0
+177,177,21667,Hate,Quin soy yo para faltar el respeto a alguin por ensear una teta o una polla. Ms asco me da juzgar a la ligera y ponerme a faltar el respeto,0,CATEGORICAL,0,0
+178,178,21670,Hate,"Cuatro magrebes agreden brutalmente y apualan a una persona en el barrio del Raval, aqul donde Ada Colau mete a todos ls inmigrantes q recoge. Lo ha convertido en un gueto y en un foco de drogas, violencia y delincuencia. Es el secreto de su poltica migratoria y multicultural",1,CATEGORICAL,0,0
+179,179,21671,Hate,", coo entonces tu eres de lo que te guias por el antes de cristo y despues de cristo,cuando llegamos los Espaoles,y le contagiamos todas clases de enfermedades Europeas",0,CATEGORICAL,0,0
+180,180,21705,Hate,... todos los trabajadores inmigrantes en reportaron recibir pagas menores a las prometidas y pagaron cuotas para poder trabajar ah. Sus pasaportes fueron confiscados por el empleador a su llegada a,0,CATEGORICAL,0,0
+181,181,21727,Hate,"Espaa crea su primer 'campo de refugiados' en la baha de Algeciras va Gran noticia para el contribuyente espaol. Espaoles a pagar, a pagar. Las pensiones pensad en las pensiones. Esto la sanidad como es gratis podemos dejar de pagarla no?",1,CATEGORICAL,0,0
+182,182,21769,Hate,Los musulmanes no tienen ni puta idea de lo que es una mujer. Para ellos las mujeres son esclavas.,0,CATEGORICAL,0,0
+183,183,21771,Hate,"Por un problema de papeles el veterano arquero de aos Carlos Daz no arregl su llegada a Uruguay de Coronado. Sin embargo, ya consigui club. Su prximo destino ser Rosario FC de Guatemala, que dirige Emiliano Barrera.",0,CATEGORICAL,0,0
+184,184,21778,Hate,// creo que algum vecino esta escuchando reggaeton pero no lo tengo claro porque suena como si coges una msica rabe y le metes autotune rollo robtico,0,CATEGORICAL,0,0
+185,185,21788,Hate,PERO QUIEN ES. MATEO ahora tu eres mateo y m voy a la puta,0,CATEGORICAL,0,0
+186,186,21812,Hate,Las personas y la mana de creer que por que la mujer es sexy tiene que ser puta seguro pues NO dejen el mojn mental.,0,CATEGORICAL,200,600
+187,187,21824,Hate,"Vi un cortometraje de unos min aproximadamente muy bueno, te lo recomiendo, busca en Google 'Una paciente muy guarra' se llama",0,CATEGORICAL,0,0
+188,188,21826,Hate,"Que onda, estn todos en modo rabes.",0,CATEGORICAL,0,0
+189,189,21832,Hate,jjajajajajajajaajja cllate zorra,1,CATEGORICAL,0,0
+190,190,21841,Hate,"La otra no noticia del da es la visita del sonriente Casado a Algeciras, a visitar en Ceuta y Algeciras, no a los guardias civiles heridos tras la violenta entrada de ilegales del otro da, sino a un grupo de subsaharianos que han entrado en nuestro pas de forma igualmente ileg",1,CATEGORICAL,0,0
+191,191,21859,Hate,"se mereca una nominacin, estuvo de puta madre est temporada.",0,CATEGORICAL,0,0
+192,192,21867,Hate,"cllate golpista hijo de puta. Descendiente de asesinos, amigos de golpistas. Mercenario indigno mal parido",0,CATEGORICAL,0,0
+193,193,21873,Hate,"Arrollada por una docena de manteros en la Gran Va cuando paseaba junto a su madre, que iba en silla de ruedas motorizada. Al verse en medio de la estampida de los subsaharianos, que portaban las mercancas en las habituales mantas de tela que se...",1,CATEGORICAL,0,0
+194,194,21877,Hate,Grande-Marlaska acusa al Gobierno de Rajoy de la crisis migratoria en Espaa via El Tribunal de Estrasburgo consider que Espaa haba vulnerado el Convenio Europeo de Derechos Humanos al devolver a Marruecos a dos inmigrantes subsaharianos...,0,CATEGORICAL,0,0
+195,195,21880,Hate,Callate zorra de Piera,1,CATEGORICAL,0,0
+196,196,21887,Hate,"Esta tiene que ser una 'fake new' porque las mujeres son siempre las vctimas, no las hijas de puta maltratadoras. Eso o el chaval es un machista que se lo ha merecido (machete al machote).",1,CATEGORICAL,-181,727
+197,197,21892,Hate,Callate puta tu eres el traidor.,0,CATEGORICAL,0,0
+198,198,21895,Hate,Que alguien le meta un pene a la boca a esa perra a ver si se queda callada,1,CATEGORICAL,0,0
+199,199,21908,Hate,"Ya lo tenia compa, al chile me agarraron, le iba a dar en su puta madre'... Cllate joto y dale un vergazo...",0,CATEGORICAL,0,0
+200,200,21920,Hate,Se ha muerto mi perra y no estoy para aguantar tonteras.,0,CATEGORICAL,0,0
+201,201,21927,Hate,"AAAAH vale vale, ya me he aclarado jajajajajaja Pues ojal, que me pareces un to de puta madre y te mereces lo mejor. Y porq... Son monisimos porque un ente superior los dise el uno para el otro, porque voy a ser su padrino...",0,CATEGORICAL,700,900
+202,202,21938,Hate,"Me agreg un bicho random de Libya para hablar. El bicho me pregunt si me gusta viajar y me cuenta que l ha viajado por casi todos los pases rabes, yo le digo que para all no voy porq matan gays.",0,CATEGORICAL,-500,500
+203,203,21941,Hate,"Macri callate HIJO DE PUTA, TE VOY AHORCAR CON MIS MANOS!",0,CATEGORICAL,0,0
+204,204,21943,Hate,"Feliz cumple a vos amiga, espero que la pases hermoso por que te lo mereces, no son nada perra te amo tonta",0,CATEGORICAL,0,0
+205,205,21944,Hate,"CLLATE EL PUTO HOCICO HIJO DE TU PERRA MADRE PINCHE MANOS GUANGAS, LRGO DE MI EQUIPO PERRO! ..hoy ganamos.",0,CATEGORICAL,0,0
+206,206,21948,Hate,"Cllate, pa' inters cualquiera so perra",1,CATEGORICAL,0,0
+207,207,21955,Hate,Una vela por estas feminiprogres y progres gilipollas que estn a favor de llenar Espaa de subsaharianos musulmanes cuya religin obliga a tapar a sus mujeres; va a ser gracioso ver en unos aos como las cazan por las calles por ensear carne ejerciendo su libertades como mujer,1,CATEGORICAL,0,0
+208,208,21959,Hate,"Mmmmm la mas tetona y puta de Mexico, pinche puta tan buena . Mmmm te mereces k te usan, abusan en la cama, y te cogen como la puta k eres, mmmm mama una verga puta",1,CATEGORICAL,0,0
+209,209,21966,Hate,"escchame ya me jodera jajajajajajajajajajajajajaja si pa ti ensear es ser una guarra yo soy biennnn guarra, menos mal que no me respeto que si no...",0,CATEGORICAL,0,0
+210,210,21992,Hate,Le tengo que ensear yo todo lpm... Un espadachin sin filo fue agarrar la puta madre ahre yo le voy a ensear la espada que y al caballo cual montar ahre,0,CATEGORICAL,0,0
+211,211,22005,Hate,rabe para que la pussy lo baile,0,CATEGORICAL,0,0
+212,212,22008,Hate,"Se mereca de puta y no quiere que le metan la verga, jajaja no mamen",1,CATEGORICAL,0,0
+213,213,22012,Hate,"Es que,que puta injusticia de verdad! Mireya se lo ha comido, y para comenzar no se mereca estar nominada esta semana...",0,CATEGORICAL,0,0
+214,214,22014,Hate,Ni t eres una zorra hambrienta ni yo un incorregible depredador.,0,CATEGORICAL,0,0
+215,215,22021,Hate,"RENZO Y LA CONCHETUMADRE!!! HIJO DE PERRA!!!! MERECES LA MUERTE MS CRUEL DE LA VIDA, MARICON CULIAO.",0,CATEGORICAL,-1000,1000
+216,216,22028,Hate,IUUUUUUUH ESO DOLI EN TU CARAAA DE ZORRA,1,CATEGORICAL,0,0
+217,217,22037,Hate,"LOS SUBSAHARIANOS, CAMINAN BAJO EL SOL DEL DESIERTO COMO PALOS INCLINADOS DE GIACOMETTI (LO QUE LE ESPERA KAFKIANAMENTE AL EUROPEO) LA LEY DEL MS FUERTE DE LOS TCNICOS DEL MEJOR POSICIONADO T PUEDES PENSAR QUE TODOS SON BUENOS TODOS SONCOMO MOSCAS SITUVIERAELMISMOARDORJESS",1,CATEGORICAL,0,0
+218,218,22062,Hate,"En Brasil creen que soy europea. Mi vidas, si tan solo supieran que soy mas sudaka y pobre que ellos",1,CATEGORICAL,0,0
+219,219,22065,Hate,| lo nico que dominas es mi polla en tu cara.,1,CATEGORICAL,0,0
+220,220,22067,Hate,Callate perra mira la foto de perfil que tienes tu quieres que te cojan y te olvidas de el,1,CATEGORICAL,0,0
+221,221,22082,Hate,Arabe me tenes malllll lpm sal de mi cabeza,0,CATEGORICAL,0,0
+222,222,22115,Hate,"Una chica no es una guarra, una zorra, una puta, una buscan por su manera de vestir.",0,CATEGORICAL,0,0
+223,223,22128,Hate,Callateeee tenes un culazo puta,1,CATEGORICAL,0,0
+224,224,22132,Hate,No puedo dejar de escuchar rabe lpm BASTAAAA,0,CATEGORICAL,0,0
+225,225,22142,Hate,Acho cllate joda perra,1,CATEGORICAL,0,0
+226,226,22152,Hate,"Ya que el ""residente"" del gobierno no quiere ayudar a la en laa fronteras, propongo hacer una colecta para que todo espaol que quiera y pueda, viaje a melilla y rodee la valla. Si nos invaden que sea con igualdad de fuerzas.",0,CATEGORICAL,0,0
+227,227,22163,Hate,ven aqui no mames Zorra / en vivo en,1,CATEGORICAL,0,0
+228,228,22165,Hate,Uno de mis propsitos para este : ensearle a mi perra a traerme el desayuno a la cama.,0,CATEGORICAL,0,0
+229,229,22168,Hate,Mi novia es como mi polla. S que est ah porque de vez en cuando se levanta. Una de mis pantalones y la otra de la cama.,1,CATEGORICAL,0,0
+230,230,22189,Hate,"CALLATE ASESINO HIJO DE PUTA, EL ARA DESAPARECI POR TU CULPA, MALDITO SEAS POR TODA LA ETERNIDAD!!!!!!",0,CATEGORICAL,0,0
+231,231,22199,Hate,Todo aqul que se haya molestado en investigar un poco sabe que desde tiempos antiguos los mayores negreros y esclavistas del mundo fueron los rabes.,1,CATEGORICAL,0,0
+232,232,22209,Hate,JAJAJAJAAJAJAJAJAJAA CLLATE PENDEJA SHUACALE MUVALE PUTA,1,CATEGORICAL,0,0
+233,233,22214,Hate,No te mereces que te coman el coo peor que yo Qu os pasa en la puta cabeza para escribirle a alguien estas cosas? Pregunto,0,CATEGORICAL,0,0
+234,234,22218,Hate,"Cllate puta, eres hermosa",1,CATEGORICAL,0,0
+235,235,22237,Hate,Esa gente que te quiere venir a ensear historia y en su puta vida toco un libro. No me interesa la historia que te ensearon tus viejos...,0,CATEGORICAL,0,0
+236,236,22243,Hate,"mira grandsimo hijo de puta, mal parido, rolo de cabron t eres una grandsima plasta de mierda que solo pusiste al becerro de Maduro acabar con la economa de vnzla",0,CATEGORICAL,0,0
+237,237,22245,Hate,"Mmm.. espera, cmo dices?",0,CATEGORICAL,0,0
+238,238,22255,Hate,"-Madrid, infarto de mantero. Todo la izmierda en la calle, los subsaharianos tirando sillas y las redes ardiendo. -Barcelona, turista casi asesinado por mantero. Ni es TT. Se nos ha ido de las manos.",1,CATEGORICAL,0,0
+239,239,22285,Hate,Cllate hijo de puta vendido!!,0,CATEGORICAL,0,0
+240,240,22290,Hate,"Pues eso, cllate la puta boca.",0,CATEGORICAL,0,0
+241,241,22297,Hate,callate la puta boca y vete a una biblioteca buscas una seccion donde haya feminismo y te quedas callado y lees y dejas de soltar gilipolleces comparable a la tierra es plana en cuanto a retroceso en los debates,0,CATEGORICAL,0,0
+242,242,22328,Hate,"Yo tambin creo que t eres una mala puta y tambin me quedo corto, adems de mal educada...",1,CATEGORICAL,0,0
+243,243,22346,Hate,Hasta la polla de no poder quedarme dormido por culpa de los mocos,0,CATEGORICAL,0,0
+244,244,22375,Hate,Callate la geta estpida cucaracha perra mutante C:,1,CATEGORICAL,0,0
+245,245,22381,Hate,"Y este pendejo!!! Wey tu eres un puta que se da al mejor postor. Por lo menos el estava pedo, pero tu cabron no mames. A chingar tu madre asi nomas quedo!!!",1,CATEGORICAL,0,0
+246,246,22388,Hate,Callate negra puta! ya te va a llegar el da que pagues por todo esto.,1,CATEGORICAL,0,0
+247,247,22401,Hate,"que asco cuando vas sola por la calle y te gritan los viejos babosos estos, callate hijo de puta q podes ser mi padre-.-",0,CATEGORICAL,0,0
+248,248,22416,Hate,Puta!? Puta con las que vos te metes Esa mujer es un ngel enviado por Jesucristo nuestro seor para darnos esa paz que buscamos slo con verla,0,CATEGORICAL,0,0
+249,249,22417,Hate,"Dejate de tonterias, lo haces de puta madre. Rendirse nunca es una opcin.",0,CATEGORICAL,0,0
+250,250,22418,Hate,cuando voy de shopping al tianguis y no me dicen Gero,0,CATEGORICAL,0,0
+251,251,22429,Hate,Los refugiados llegaron a Valparaso el de septiembre de (Wikipedia).,0,CATEGORICAL,0,0
+252,252,22437,Hate,. Tu eres una perra maldita sin corazn JAJAJAJAJAJA,1,CATEGORICAL,0,0
+253,253,22450,Hate,T eres lo peor del mundo grandsimo hijo de perra,0,CATEGORICAL,0,0
+254,254,22451,Hate,"No saber leer ni hablar ni entender lenguas rabes es un poco frustrante cuando se me encuentro con libros por ah que tienen dibujos increibles o libros de poesa que es imposible entender. Quiero en algn momento de la vida aprender aunque sea un poquito, conversar en rabe.",0,CATEGORICAL,0,0
+255,255,22456,Hate,"LA PUTA MADRE TE MERECES TODO LO BUENO , TODOS LOS AOS DEMOSTRAS QUE SOS LA MEJOR MANDA BAILA FLOR AL",0,CATEGORICAL,0,0
+256,256,22457,Hate,"De Colombia tocar emigrar en pateras, como hacen los africanos subsaharianos.",0,CATEGORICAL,0,0
+257,257,22471,Hate,"Y t eres bien puta, me ofreces el culo.",1,CATEGORICAL,0,0
+258,258,22479,Hate,"- A Barcelona el da a hacer el parip, no ? - S, papi. - Recuerda el llamar al amigo rabe para ""aquello"". - S, papi. Y la agenda de ""campamentos"" que me prometiste? - Vale... para el da ... !!!",0,CATEGORICAL,0,0
+259,259,22517,Hate,"-eres poblana? -soy colombiana -y por qu eres gera? en Colombia TODAS son morenas, fui a Colombia veces. -ok, ment solo me pinto el cabello",0,CATEGORICAL,500,500
+260,260,22528,Hate,Anoche estaba hablando con mi beb ;v y cmo estaba casi dormida le escrib en rabe JAJAJAJAJAJA,0,CATEGORICAL,0,0
+261,261,22560,Hate,Callateeeee !! Puta gallina cacarea !! Ni idea tienes de nada .,1,CATEGORICAL,0,0
+262,262,22574,Hate,yo: quin t eres t bizcochitooo (cantando) mi mam: a la tens clara puta Jajajajaja me estallo,1,CATEGORICAL,0,0
+263,263,22575,Hate,"Qu basura de vecinos, asquerosos, mezquinos e hijos de la gran puta que tienen que inventarse que el vecino hace ruido y van y llaman a la CNP para que se presenten aqu, en mi puta puerta, hace una media hora porque les apetece molestar al vecino de arriba.",0,CATEGORICAL,0,0
+264,264,22589,Hate,"Alarma por los ms de subsaharianos que esperan en Marruecos para cruzar a Espaa . Esta es vuestra poitica, matar al pueblo de hambre y a stos les pondris la alfombra para que entren, sois basura. va",1,CATEGORICAL,0,0
+265,265,22592,Hate,o sea tantos arabes q hay en venezuela y no pueden hacer un atentado decente q pasa ?????????,1,CATEGORICAL,0,0
+266,266,22594,Hate,"A mi me insultan y no pasa na, sale adan con el cantico y vaya tela? MI NOVIA ES SEVILLISTA Y ES UNA PUTA MAS!!! PUTA ZEBIYAAA PUTA ZEBIYAAA!!!!",1,CATEGORICAL,0,0
+267,267,22632,Hate,Y la Puta madre como nunca hicieron este baile las ms nias merecan la versin mejorada hecha por fede y Lau by Mati Napp podran meter remake de peli,0,CATEGORICAL,0,0
+268,268,22658,Hate,Ya te dije si inspiro en tu cara zorra,1,CATEGORICAL,0,0
+269,269,22660,Hate,"En esta vida llamada spice girls, yo sera Ginger spice...les explico: No sera la negra, ni la gera ridcula, ni la deportista plana, y mucho menos la posona. Bsicamente sera Ginger, por qu es la nica que tuvo un xito como solista. Bendiciones",1,CATEGORICAL,0,0
+270,270,22661,Hate,"Sr, pues dgales q cuando bajen del barco cojan el autobs direccin Doana y todos para ti, olvidas las necesidades espaoles x el POPULISMO q te da la inmigracin. Una ms de tus atrocidades",0,CATEGORICAL,0,0
+271,271,22669,Hate,"mario, hablas de la hija de chavez pero vos decir ser italiano y no vivis en italia. Para los tanos (si les importara lo que hace un sudaca) tamben serias un traidor viviendo aca.",1,CATEGORICAL,0,0
+272,272,22676,Hate,Su novia es puta seguro pero no por ser sevillista si no por estar cn tigo por tu dinero,1,CATEGORICAL,0,0
+273,273,22679,Hate,", ese agujero lleno de hijos de puta. Os mereceis que gane Ins y cierre vuestra basura de televisin.",0,CATEGORICAL,0,0
+274,274,22711,Hate,"Callate puta, no te metas",1,CATEGORICAL,0,0
+275,275,22714,Hate,Nena t eres de lo ms linda. Tienes cara de puta QUEEEEEE JAHAJAJAJAJAJAJAJJAJAJAJAHAJAJAHAHAHAHAHAHAJAJ,1,CATEGORICAL,0,0
+276,276,22718,Hate,Mi meta de este domingo es aprenderme la parte en rabe de Ojos As.,0,CATEGORICAL,0,0
+277,277,22725,Hate,Malditos espaldas mojadas,1,CATEGORICAL,0,0
+278,278,22729,Hate,Los que apoyan las polticas del Presidente Trump en contra de los inmigrantes y su buen trato hacia Puerto Rico tambin debern rendir cuentas.,0,CATEGORICAL,0,0
+279,279,22739,Hate,Te fuiste a las hijo de puta callate,0,CATEGORICAL,0,0
+280,280,22768,Hate,Que te calles so guarra.,1,CATEGORICAL,0,0
+281,281,22782,Hate,Como se dice en ingls: as como lo traigo pero ms cortito? Necesito ya cortarme el pelo pero ando en el gabacho mennnnnnn,0,CATEGORICAL,0,0
+282,282,22787,Hate,Coo ya!,0,CATEGORICAL,0,0
+283,283,22800,Hate,Todos debemos de tener un PLAN B ph:,0,CATEGORICAL,0,0
+284,284,22801,Hate,"vos sos una hija d puta , callate mejor",1,CATEGORICAL,0,0
+285,285,22811,Hate,si unf es acoso cibernetico todos estariamos presos dejen d decir estupideces RIDICULAS Q SON,0,CATEGORICAL,0,0
+286,286,22814,Hate,Esto si que debera de preocuparnos y la no la inmigracin.,0,CATEGORICAL,0,0
+287,287,22815,Hate,Novia me hizo papas fritas esta mujer es todo lo que esta bien la puta madreeeeeeeeeee,0,CATEGORICAL,0,0
+288,288,22822,Hate,mereces morirte pedazo de mierda hijo de puta ojal te entren un milln de tumores en el p uto cerebro hijo de la gran zorra.,0,CATEGORICAL,0,0
+289,289,22826,Hate,"Me tienen arta con decirme puta, que no disfruten el sexo no es un drama mo ridculas",0,CATEGORICAL,0,0
+290,290,22834,Hate,"ENTRATE | Usando informacin falsa, Trump insisti en que son necesarias leyes ms dura para que los indocumentados no puedan votar...",0,CATEGORICAL,0,0
+291,291,22835,Hate,Hijos de puta! Que en la tierra vive ms gente! Ensearnos la polla y quin encule con ms dolor al otro gana. Y el que ms gana... El resto del mundo! Anormales!,0,CATEGORICAL,0,0
+292,292,22846,Hate,Si a mi se me ocurre ensear por twitter una conversacin de whatsap con mi madre me manda a dormir a la caseta de mi perra.,0,CATEGORICAL,0,0
+293,293,22848,Hate,"Pinche beb pendejo cllate el hocico, noms te estn cortando el pelo. Puta chillona",0,CATEGORICAL,0,0
+294,294,22861,Hate,tener una polla en la cara de jessi en un pony al decir que era brony o,0,CATEGORICAL,0,0
+295,295,22867,Hate,"Que no es presunto que ESCORIA es CULPABLE del ASESINATO,DESAPARICION,SECUESTRO Y VIOLACIN de angelico D.E.P que este ESCORIAq su trastorno solo es va a pagarlo",0,CATEGORICAL,0,0
+296,296,22877,Hate,imgenes exclusivas de Casado y Rivera ante la valla de Melilla.,0,CATEGORICAL,0,0
+297,297,22885,Hate,"callate zorra maldita. supongo q estas celebrando en tu fundo o peor aun, en el fundo de un momio q te invito. ZORRA MOMIA",1,CATEGORICAL,0,0
+298,298,22888,Hate,"Cuando el de los tacos te dice ""Uy no gera, ya se me acabaron los de pastor""",0,CATEGORICAL,0,0
+299,299,22889,Hate,".El acoso y la violacin tiene connotaciones muy prifundas. El poder econmico de estos acosadores tiene el mismo efecto que un cuchillo en el cuello por violadores. Los poderosos se aprovechan de momentos vulnerables de sus victimas,ahora",0,CATEGORICAL,0,0
+300,300,22894,Hate,"Cristina ve cmaras y se descontrola. No es cadena, la puta madre callate ya.",0,CATEGORICAL,0,0
+301,301,22898,Hate,": ""Slo seis CCAA estamos absorbiendo la inmigracin, no damos abasto""......... A VER SI POR FIN OS DAIS CUENTA QUE LA SOLIDARIDAD Y EL BUENISMO TIENE LMITES. DEJAD LA DEMAGOGIA DE UNA VEZ. NO PUEDE HABER INMIGRACIN ILEGAL ILIMITADA.",1,CATEGORICAL,0,0
+302,302,22920,Hate,"Callate vos zorra, y vos le andabas arrastrando el ala a maldonado asi sh",1,CATEGORICAL,0,0
+303,303,22938,Hate,Masculinidad frgil es mi crush francs echndose un clavado al cenote solo porque un grupo de rabes le dijo pussy,0,CATEGORICAL,0,0
+304,304,22952,Hate,Que este ao sea bueno para quien se lo merezca y una puta mierda para el que no!,0,CATEGORICAL,0,0
+305,305,22953,Hate,Le puedes dar un pez a un hombre y comer un da Como le des una caa a un subsahariano fabricar una lanza y atravesar a un guardia civil,1,CATEGORICAL,0,0
+306,306,22954,Hate,PUTA MIERDA COO. Se mereca quedarse Mireya coo. pues nada Cepeda nominado otra vez.,0,CATEGORICAL,0,0
+307,307,22971,Hate,"Cllate perra que t no aparecias hace aos, ve a tocarte con tu ascenso",1,CATEGORICAL,0,0
+308,308,22972,Hate,"Ay estpida perra gracias a otros tu eres famosa , idiota!!!",1,CATEGORICAL,0,0
+309,309,22998,Hate,bueno q si que te calles de una puta vez y actualiza el fortnite,0,CATEGORICAL,0,0
+310,310,23003,Hate,Pero ningn indocumentado.,0,CATEGORICAL,0,0
+311,311,23009,Hate,Permitir esta invasin de africanos y rabes antes de pedir ayuda para recibirlos a la UE es tpico de polticos demagogos a los que no les importa en absoluto su pueblo y los van a usar para enfrentarnos.,1,CATEGORICAL,0,0
+312,312,23019,Hate,"Tengo una sobrina que estaba re mal en qumica, tena que dar una prueba global y fui a ensearle y le fue la zorra, me siento tan bien",1,CATEGORICAL,0,0
+313,313,23021,Hate,Creo que los colegios que impartan el Islam debe de ser el mismo numero de co!egiosque en los pases rabes imparten el cristianismo.Que no somos ms tontos porque no ensayamos,0,CATEGORICAL,0,0
+314,314,23059,Hate,Esos rabes de mierda igual a sionistas.,1,CATEGORICAL,0,0
+315,315,23086,Hate,Perra /\ te ensear lo que es el nuevo orden mundial,0,CATEGORICAL,0,0
+316,316,23088,Hate,"Son las de la maana. Comida guarra y pelcula 'La espada mgica: en busca de camelot'. Os lo digo todo, TODO.",0,CATEGORICAL,0,0
+317,317,23090,Hate,cllate y relaja la puta mandbula,0,CATEGORICAL,0,0
+318,318,23098,Hate,"Valores como el 'mi novia es sevillista y una puta ms' o el 'Rubn Castro al, Rubn Castro al, no fue tu culpa, era una puta, lo hiciste bien'?",1,CATEGORICAL,0,0
+319,319,23122,Hate,No crean que fue a la selva lacandona a reunirse con el ... no! ms bien anda en el rancho de su compadre el gero Velasco,0,CATEGORICAL,0,0
+320,320,23123,Hate,es por acoso y violacion por abuso de poder. Lo de Depp es acusacin de supuesto maltrato en pareja. No son lo mismo.,0,CATEGORICAL,0,0
+321,321,23179,Hate,No vayas provocando que luego desapareces y en Espejo Pblico dicen que te lo mereces por guarra,1,CATEGORICAL,0,0
+322,322,23192,Hate,claro tenan que ser rabes musulmanes para hacer sus pendejadas y luego lo mezclas con veganos fanticos y sale una porquera ademas de obviamente maltrato psicolgico para los nios,1,CATEGORICAL,0,0
+323,323,23215,Hate,"callate zorra impura, trabajo para mantenerte a vos juanrro de mierda",1,CATEGORICAL,0,0
+324,324,23217,Hate,Menos mal que no habia twitter en la edicion de Virgina porque eso si que era acoso y derribo. Y no las tonterias de este ao.,0,CATEGORICAL,0,0
+325,325,23234,Hate,"Otro tema sobre ""ingerencia en los asuntos internos"". Gobiernos rabe y paraguayo ""van por la misma senda con embajadores britnico y canadiense. Por qu ser?",0,CATEGORICAL,0,0
+326,326,23246,Hate,"sea se mereca lo que le pas por puta, descuidada, mochilera y ofrecida verdad, querido cisticerco?",1,CATEGORICAL,0,0
+327,327,23247,Hate,"Abro hilo recopilando todos los actos de violencia llevados a cabo por los inmigrantes sin papeles que tanto le gustan a la izquierda. Adems, tambin recopilar las paguitas que reciben a cambio de nada, puesto que pagan CERO impuestos. Empecemos.",1,CATEGORICAL,0,0
+328,328,23250,Hate,Callate que estamos de la panza por tu puta amarena,0,CATEGORICAL,0,0
+329,329,23255,Hate,"A ver,en serio algn tio cree que por ensear su polla tendr la atencin de alguien? Yo,desde luego no...",0,CATEGORICAL,0,0
+330,330,23259,Hate,Maldito cinico hijo de remil puta te mereces que te empalen y te cuelguen en la plaza como lo hicieron los italianos con Benito Mussolini,0,CATEGORICAL,0,0
+331,331,23308,Hate,La d Aranburu fue top. Como mereca. Lo q es una puta verguenza es q una leyenda como Darko no lo haya recibido todava.,0,CATEGORICAL,500,500
+332,332,23320,Hate,No digas nada que t eres cmplice de lo que est pasando... y recuerda seguirs siendo la perra ms perra de Venezuela,0,CATEGORICAL,0,0
+333,333,23325,Hate,"Encima que ya estoy cagado mi hermano habla dormido,hijo de puta cllate",0,CATEGORICAL,0,0
+334,334,23333,Hate,Emiratos rabes Unidos crea un Ministerio de Inteligencia Artificial. Conoce cuales son sus planes de gestin aqu va,0,CATEGORICAL,-600,1000
+335,335,23337,Hate,Cllate puta no grites,1,CATEGORICAL,0,0
+336,336,23341,Hate,"Sudacas que votan a la derecha, que queres?",1,CATEGORICAL,0,0
+337,337,23342,Hate,Franchute cagon el que arrago la silla y no se la partio en la cabeza!!!!!,0,CATEGORICAL,0,0
+338,338,23345,Hate,Hoy a eso de las :00 hrs tendremos crossover con el tata Seba de Sudaca Gamer en donde estaremos conversando y aclarando varios puntos sobre uno de los considerados peores juegos dentro de la franquicia Castlevania. Akumajo Dracula Mokushiroku.,0,CATEGORICAL,0,0
+339,339,23363,Hate,"Feliz cumpleaos , un ao ms siendo LEYENDA! Que tengas un da de puta madre y celbralo como te mereces! Un abrazo!",0,CATEGORICAL,0,0
+340,340,23374,Hate,"EE.UU. ha deportado a a en , de ellos nios",0,CATEGORICAL,0,0
+341,341,23380,Hate,Pero es que pones Egipto o Emiratos rabes que son nuestros casos e igual juran que vamos a Qatar gracias a Korea...,0,CATEGORICAL,0,0
+342,342,23386,Hate,"Y t eres una puta mierda que solo sirves para decir gilipollas y q gente como t te den la razn, que vivan las fiestas y ms las d pueblo",0,CATEGORICAL,0,0
+343,343,23387,Hate,Feliz ao chavaleria por todos los grandes que sois a veces que tengis un ao de puta madre que os lo merecis,0,CATEGORICAL,0,0
+344,344,23390,Hate,"Hola, tarta. S bien lo que quieres. Te v en aquella pelcula. Zorra, cerda, puta. No te mereces que me acueste contigo Peter Griffin",1,CATEGORICAL,0,0
+345,345,23392,Hate,: Descubre uno de los secretos mejor guardados de la ... ...los rabes rusos!!!,0,CATEGORICAL,0,0
+346,346,23394,Hate,"Es sper de pueblo decirle geros a la gente de tez blanca aunque no sean rubios. Los geros son as . Estos no son geros, no mamen",0,CATEGORICAL,0,0
+347,347,23396,Hate,Habeis visto el video de la seora del Metro de Madrid que no deja sentar a una nia extranjera??? pues el vdeo de los negratas pegando a un turista americano por defender a una mujer con una silla de un beb en Barcelona no lo vais a ver!!,1,CATEGORICAL,0,0
+348,348,23415,Hate,Exacto!,1,CATEGORICAL,0,0
+349,349,23429,Hate,"Tu callate TREMENDA PINCHE PUTA, no tienes derecho de opinar porque tu user es una mierda chupa vergas de caballo!",1,CATEGORICAL,0,0
+350,350,23439,Hate,"es que cllate, cllate porque no tienes ni puta idea y ojal te pase lo mismo que t no te crees que nos pasa a las mujeres, me importa una mierda que leyendo esto pienses 'wooow vaya feminista desendome eso', vete a la mierda, sigo teniend",0,CATEGORICAL,0,0
+351,351,23444,Hate,Cuando Franco esto no era un coladero de P moros y P musulmanes sin papeles,1,CATEGORICAL,0,0
+352,352,23446,Hate,Tu eres escoria,0,CATEGORICAL,0,0
+353,353,23450,Hate,Cllate pinche perra,1,CATEGORICAL,0,0
+354,354,23493,Hate,Hasta para ensear el culo hay que ser perra.,1,CATEGORICAL,0,0
+355,355,23506,Hate,JAJAJAJA cllate zorra.,1,CATEGORICAL,0,0
+356,356,23520,Hate,"Que rica te ves perra, pero te verias mejor enseando esa puchita rica bien mojada",1,CATEGORICAL,0,0
+357,357,23532,Hate,"Mi primito insulta con 'Puto, Maricon, Puta' PENDEJO DE MIERDA CALLATE",0,CATEGORICAL,0,0
+358,358,23542,Hate,Putos moros se estn cargando el pais.,1,CATEGORICAL,0,0
+359,359,23545,Hate,t callate mamaguebo que eres rolo e' puta,1,CATEGORICAL,0,0
+360,360,23565,Hate,La solucin no es darle papeles a todos. Es exigir a nuestro gobierno q no fabrique y venda armas a los gobiernos subsaharianos para que estos no masacren y acorralen a su poblacin haciendo q quieran venir aqu x lo civil o criminal. Desesperacin y supervivencia pura.,0,CATEGORICAL,-400,550
+361,361,23568,Hate,Para mi si quers llegar a latinoamerica no suma el discurso argento de nosotros somos descendientes d europ.. Nose un mexicano nos diria para loca somos tos sudakas..,1,CATEGORICAL,0,0
+362,362,23580,Hate,Me bloque hace siglos. Le dio por decir muchas tonteras sobre m en conversaciones con otras personas. Usando el rumor falso para desprestigiar. A m me parece un comportamiento muy lamentable y que dice mucho y m,0,CATEGORICAL,0,0
+363,363,23596,Hate,Ests en contra de Erdogan? Pues te ponemos una foto con una polla en la cara y manipulamos el titular.,0,CATEGORICAL,100,100
+364,364,23614,Hate,"Jordania, Egipto y Tnez son los pases rabes que han llevado a cabo mayores planes de ajuste dictados por el Fondo Monetario Internacional. No hay mejora y desde Amn hasta El Cairo las calles se inundan de protestas.",0,CATEGORICAL,0,0
+365,365,23615,Hate,CALLATE VIEJA ZORRA,1,CATEGORICAL,0,0
+366,366,23622,Hate,Oigan ando en la playa como si estuviera bien gera,0,CATEGORICAL,0,0
+367,367,23633,Hate,"Cada poblacin liberada, cada bandera izada, supone un duro revs para los intereses del imperialismo en . Honor y gloria al Ejrcito rabe Sirio!",0,CATEGORICAL,0,0
+368,368,23635,Hate,"Las ""geras"" se enojaron, que casualidad",0,CATEGORICAL,0,0
+369,369,23647,Hate,"inmigrantes saltando la valla en lo intentan y pasan, ah QUE NO LES FALTE DE N !! quitamos concertinas, que no se lesionen, pero a los heridos de la que les den, no? Que vergenza de pas",1,CATEGORICAL,0,0
+370,370,23651,Hate,"me cago en tus muertos _ Hija de puta, zorra de mierda, murete' .... Que Tu Eres Bien Puta TU MUERTETu Eres Bien puta agregado,",1,CATEGORICAL,0,0
+371,371,23652,Hate,"Podr sentir lo que usted quiera, pero no es violacin ni acoso sexual. Y es usted quien debe detenerlo.",0,CATEGORICAL,500,833
+372,372,23663,Hate,"La vida es una puta mierda a veces... Justo acaba de regresar, se merecia lo mejor despues de toda la mierda que paso... Se me parte el corazon...",0,CATEGORICAL,0,0
+373,373,23687,Hate,Puta madre mi novia es una belleza,0,CATEGORICAL,0,0
+374,374,23688,Hate,"Ninguna mujer es tan santa como para no aprender a coger bien, ni tan puta como para no aprender a amar.",1,CATEGORICAL,0,0
+375,375,23690,Hate,"EL PUTA MADRE ES LO MS Y MALUMA EST PRECIOSO, AS QUE CLLATE.",0,CATEGORICAL,0,0
+376,376,23716,Hate,"- El otro da me com a Laura es muy fcil que guarra jajajaja - Laura tambin te comi a ti entonces t eres igual de guarro e igual de fcil. - Puto feminazi putas modas eres feminista solo para ligar bien queda gilipollas - em, ok",1,CATEGORICAL,500,500
+377,377,23728,Hate,Callate CTM hijo de la perra caliente,0,CATEGORICAL,0,0
+378,378,23735,Hate,"Gastarse la pasta en investigar en cosmeticos para el coo tiene cojones!! No debera gastarse ese dinero en investigaciones ms serias? Vamos, digo yo.",0,CATEGORICAL,0,0
+379,379,23742,Hate,siempre mira hacia arriba!,0,CATEGORICAL,0,0
+380,380,23750,Hate,Hdsptm geras pelones sin cejas,1,CATEGORICAL,0,0
+381,381,23751,Hate,Snchez crea un mando nico para controlar las fronteras y la inmigracin ilegal Compartido desde tu tabln de Google,0,CATEGORICAL,0,0
+382,382,23754,Hate,Y tu eres una PUTA muy util a maduro y la banda de delincuentes...,1,CATEGORICAL,0,0
+383,383,23755,Hate,Pinche Astrid perra hasta en mis sueos eres tonta No te lo mereces,1,CATEGORICAL,0,0
+384,384,23777,Hate,"Violencia, NO Acoso,NO No significa,no Por que tienen que ensear su casa? Por ser un personaje publico o por vender a una revista? La seora Patio es personaje publico y ha salido en revistas,tendremos el mismo derecho a saber",0,CATEGORICAL,0,0
+385,385,23783,Hate,Lo mejor de todo ver a Anabel con cara de asco jeje fijo que te lo mereces zorra,1,CATEGORICAL,0,0
+386,386,23800,Hate,"Un debate!? No es slo dar voz. Se ha de ensear qu es un maltrato y por qu no se ha de cuestionar lo que es un maltrato. Las seales en la piel se ven, las que dejan en la mente no.",0,CATEGORICAL,0,0
+387,387,23827,Hate,Represin? Hijo de mil puta! Mereces que te caguen de un piedrazo los negros de mierda y sientas en carne propia!!,0,CATEGORICAL,0,0
+388,388,23830,Hate,"Deje la billetera en el trabajo, estoy sin papeles y sin pesos",0,CATEGORICAL,0,0
+389,389,23875,Hate,"Hoy se quema el K17 gracias por ensearme mucho, y viene K18 como as que SKEREE perra ajjaja",0,CATEGORICAL,0,0
+390,390,23900,Hate,Cuatro mujeres sealan a Paul Haggis como culpable en casos de acoso sexual y violacin,0,CATEGORICAL,500,833
+391,391,23901,Hate,Dan ideas a Marlaska para que los pobres negratas pasen la valla con menos sufrimiento !!!,1,CATEGORICAL,0,0
+392,392,23912,Hate,mira que tu eres bandido y criminal al igual que santos mas temprano que tarde pagaran sus crimenes escoria basura,0,CATEGORICAL,-400,550
+393,393,23922,Hate,Pobre moromierda. Pues a mi me parece mas digna y respetable la vida de una linda gallina que acabar en un KFC que se semita culturizado en el pas de la violacin que acaban de dejar libre,1,CATEGORICAL,0,0
+394,394,23926,Hate,Estos miserables q pueden ensear ms q su puta basura nazionalista... No tienen mas nada q ensear,0,CATEGORICAL,0,0
+395,395,23928,Hate,"Puta nia mierda, ya cllate a la chingada",1,CATEGORICAL,0,0
+396,396,23935,Hate,"Ya hice copy-paste del mismo mensaje a toda la gente que se mereca un saludito en este ao con mi perra a upa aullando como un lobo, as que me voy a ir a dormir. Saludos a todos.",0,CATEGORICAL,0,0
+397,397,23943,Hate,papa para ve a dormir q te quedas dormido aqui y lo q te decia en q tenia sueos con un nio o con un viejo aquel viejo de la bicicleta y los perfumes jejeje donde estaran los arabes come mierda.... recuerda bien q me dan lastima y q van hacer si son.,1,CATEGORICAL,0,0
+398,398,23944,Hate,"Se lo mereca. Lo crack que es, aguante flor vignaaaaaaaa, la puta madre",0,CATEGORICAL,0,0
+399,399,23954,Hate,T eres ms puta jijijiji,1,CATEGORICAL,0,0
+400,400,23957,Hate,Snchez da Sanidad gratis a los sin papeles... pero no a los inmigrantes legales como te lo comes eso? Si eres ilegal toda la ayuda es poca pero si estas en desempleado entonces ....,1,CATEGORICAL,0,0
+401,401,23979,Hate,Si eres de los que piensas que una mujer es una mala puta por pensar diferente a ti Vota a ERC PdCAT o CUP,1,CATEGORICAL,0,0
+402,402,23988,Hate,tu puta madre cllate ya joder,0,CATEGORICAL,0,0
+403,403,23989,Hate,Muchos violadores ven en la violacin la intimidacin el acoso o los golpes su realizacin de fantasa sexual que la vctima cese tras no encontrar salida ni opcin de salvacin,0,CATEGORICAL,500,833
+404,404,23990,Hate,Por acoso y violacin a la intimidad,0,CATEGORICAL,0,0
+405,405,23991,Hate,"Trabajas para la RAE? No verdad,pues cllate la puta boca.",0,CATEGORICAL,0,0
+406,406,24019,Hate,Ac nos huevean si nos encapuchamos pero en los paises rabes estariamos todas obligadas a encapucharnos,0,CATEGORICAL,0,0
+407,407,24024,Hate,"La mayora de musulmanes vienen a vivir gratis del ahorro de los espaoles y volver de vacaciones a su pas. No son refugiados, pero Pedro les entrega lo que necesitamos los espaoles.",1,CATEGORICAL,0,0
+408,408,24028,Hate,"Slo dentro de los lmites del humor, quiz es esta la solucin compensatoria para ellas en el tema de la carne roja",0,CATEGORICAL,0,0
+409,409,24031,Hate,"Pastrana hijo de puta!!!Omar no se merecia una salida asi, dio mucho a esta institucin porq no se fue usted con Urrego, Sols y plata",0,CATEGORICAL,0,0
+410,410,24055,Hate,Callate gorda borracha hija de mil puta sos lo peor de la politica argentina ya lo dijo don Raul Alfonsin,1,CATEGORICAL,0,0
+411,411,24062,Hate,CALLATEEEE VOS PERRA ENVIDIOSA,1,CATEGORICAL,0,0
+412,412,24066,Hate,"La huella dejada por los rabes en Al-Andalus, es decir, en Espaa",0,CATEGORICAL,0,0
+413,413,24083,Hate,"La mujer conoce bien la debilidad del hombre, y cada da le sube ms la falda y posteriormente se queja de acoso...",1,CATEGORICAL,0,0
+414,414,24099,Hate,"El Gobierno okupa de la Moncloa, est encantado con la invasin de subsaharianos agrediendo a Guardias civiles .""Vienen a pagarnos las pensiones, no os preocupis""",1,CATEGORICAL,0,0
+415,415,24104,Hate,Yo llego atender alguna llamada del tlf de mi pap y llega hablar una mujer es que le mento la madre a esa puta,1,CATEGORICAL,0,0
+416,416,24115,Hate,"Chica, pero por qu borras las fotos en Cholon, en yates? Si al final la frijolera que todos los fines de semana revuelven y hasta estrujan es la tuya y nadie debe opinar en eso... Tranquila deje sus fotos.",0,CATEGORICAL,0,1000
+417,417,24123,Hate,Qu hace una mujer trepando una pared de vidrio? Quiere ver que hay al otro lado,1,CATEGORICAL,0,0
+418,418,24126,Hate,LA SOLUCIN ES SOLDARLE EL TIMN DE LA PATERA RUMBO DE DONDE SALIERON CON AGUA Y COMIDA.,1,CATEGORICAL,0,0
+419,419,24140,Hate,Imbecil te lo merecas. Agradceme perra,1,CATEGORICAL,0,0
+420,420,24147,Hate,callate si sos re zorra,1,CATEGORICAL,0,0
+421,421,24155,Hate,"Que cojones vern los guiris en Espaa para venir de vacaciones?. Gitanos, moros, sudacas, etc.",1,CATEGORICAL,0,0
+422,422,24159,Hate,"Jajajajajaja tu eres uno, diego jajajajajaja mentira perra perra perrraaaaaaaaaa de mierda jajaja",0,CATEGORICAL,0,0
+423,423,24160,Hate,Un rabe gan dolares por jugar un torneo de fifa en la play y yo ac perdiendo el tiempo jajaja,0,CATEGORICAL,0,0
+424,424,24172,Hate,"Y los que no se denuncian... hagamos nmeros. El acoso a las mujeres es diario. No todos los hombres son acosadores, pero todas las mujeres han sido acosadas.",0,CATEGORICAL,0,0
+425,425,24180,Hate,Qu tan difcil es Espaa cuando emigras sin papeles (por ),0,CATEGORICAL,0,0
+426,426,24188,Hate,Aqu est la de Mara Elena Menndez: Los refugiados sirios en el mundo Colaboracin desde,0,CATEGORICAL,0,0
+427,427,24190,Hate,Por algo ser la polla es bueno y un coazo es malo,0,CATEGORICAL,0,0
+428,428,24209,Hate,"Ya les he contado que si fuera rica/millonaria sera toda una PERRA?, Yisus me est enseando humildad... Y no he aprendido mucho ldvdd.",0,CATEGORICAL,0,0
+429,429,24247,Hate,"La fundacin Francisco Franco propone eliminar las concertinas de la valla de Ceuta, y untar con tocino de cerdo la frontera para evitar que los moros nos coman.",1,CATEGORICAL,0,0
+430,430,24290,Hate,Cllate puta que eres mas importante para mi de lo que crees >,1,CATEGORICAL,-750,1000
+431,431,24294,Hate,"(get_repost) Cuando dicen comida rabe, seguro lo primero que les viene a la mente son estos dos platillos !!! Y yo por supuesto tena que ponerlos a competir,",0,CATEGORICAL,0,0
+432,432,24301,Hate,Esta mujer es una perra de mierda yo le saco la cucha a ella la maraca culia,1,CATEGORICAL,0,0
+433,433,24310,Hate,"Lo bien que van esos tunantes ah, una pela encueros es qu hay que darles a estos traficantes de indocumentados, llenando el pais de esta plaga que entran sin documentacin, sin historial y sin nada a nuestro pas, quien sabe dejando que prontuario en su pas...",1,CATEGORICAL,0,0
+434,434,24311,Hate,Igual t para follarte a alguien te fijas en su personalidad pero en una APP que es para FOLLAR no todos tienen que tener el mismo criterio.,0,CATEGORICAL,0,0
+435,435,24321,Hate,"JAJAJAJAJJAJAJAJJAA maldita perra,no mereces vivir",1,CATEGORICAL,0,0
+436,436,24326,Hate,Es molesto que te manden a hacer algo y despus te quieren ensear jei . Pero veni hacelo vos si sos mejor y listo la puta madre,0,CATEGORICAL,0,0
+437,437,24338,Hate,"Estoy HASTA LOS COJONES!! Manteros AGREDIENDO a la , ISLAMISTAS EXIGIENDO que en nuestras escuelas se imponga el ISLAM.. estoy hasta los de tanta basura. LA DERECHA Y partidos como tienen que SUBIR SEGUIDIRES EN EL PAS. POR UN PAS DE PRINCIPIOS!!.",1,CATEGORICAL,0,0
+438,438,24350,Hate,Que te calles puta escoria.,0,CATEGORICAL,0,0
+439,439,24352,Hate,"Ves que tu coo me importe? Cmete mi polla, basura",1,CATEGORICAL,0,0
+440,440,24356,Hate,"Callate ya guarra anda, que das pena, aparte de fea tu comic ese es una puta mierda, te lo comprarn por pena porque es feisimo Uyyyy los aos cmo se notan... Qu pasa, que ests rebotao porque anoche tus papis no te deja...",1,CATEGORICAL,250,500
+441,441,24357,Hate,"Para lo relevante no hay dinero y para las engaifas, s (invasores africanos, moromierdas mantenidos, falsas maltratadas y dems porqueras varias).",1,CATEGORICAL,0,0
+442,442,24368,Hate,Callate puta te falta pico endulzado,1,CATEGORICAL,0,0
+443,443,24373,Hate,no te mereces que te preste ninguna malla ms por escribirlo as perra jajajajaj,1,CATEGORICAL,0,0
+444,444,24374,Hate,Controles policiales durante horas a pesar de ser una frontera Schengen provocan un goteo diario de y rechazados en la zona fronteriza de Irn-Hendaya.,0,CATEGORICAL,0,0
+445,445,24397,Hate,"Jajaja vos mejor callate, zorra. Yo tambin te amo y ME VOY A COMER TODAS LAS GORDAS QUE SEAN NECESARIAS, OK?",1,CATEGORICAL,500,500
+446,446,24401,Hate,No habr que darles de lo 'nuestro'. Ellos se apropiarn de lo 'suyo'. les dice a quienes piensan q hay q jubilar a los mayores para q trabajen los jvenes o q los q vienen d fuera te quitan el trabajo. va,1,CATEGORICAL,0,0
+447,447,24402,Hate,zorra eres tu que no te sientes hombre y no entiendes que toda mujer es bella,0,CATEGORICAL,0,0
+448,448,24413,Hate,". t eres un hijo de la gran puta la vd, haces cosas muy feas con motivos que ms vale que sean de peso (confo que s) pero luego hablo contigo y se me pasa todo porque sueltas una tontera y ya me alegras?? me veo reflejada o algo, en fin tu sangre es sucia pero no ms que yo",0,CATEGORICAL,0,0
+449,449,24431,Hate,Yo nunca le he dicho puta a una mujer pero socia t eres senda petardo estas navidades no voy a comprar pirotecnias ya contigo vasta,1,CATEGORICAL,0,0
+450,450,24434,Hate,"Hace tanto calor que podra matar a un rabe indiferentemente. (Referencia de ""El extranjero"")",1,CATEGORICAL,0,0
+451,451,24442,Hate,"Sidra el gaitero, comemela por el mundo entero",0,CATEGORICAL,0,0
+452,452,24451,Hate,Que por qu nuestrxs gobernantes son blancos y en la tele hay puro pinche gero?,1,CATEGORICAL,0,0
+453,453,24467,Hate,Somos animales: t eres una perra y yo la ladilla que no se quiere despegar de esa totona.,1,CATEGORICAL,0,0
+454,454,24481,Hate,En que se parece superman a una mujer lista: En que los dos son personajes de ciencia-ficcin.,1,CATEGORICAL,0,0
+455,455,24488,Hate,Un indocumentado...habla y habla y no para y acaba hablando su ignorancia.Empezamos bien.,1,CATEGORICAL,0,0
+456,456,24492,Hate,"Ole tu, solo le falto decir que con Franco eso no pasaba",0,CATEGORICAL,0,0
+457,457,24520,Hate,el novio de mi hermanastra dijo que mi perra es muy tarada y despus me dijo autista a mi y a mi seoro callate tincho que te voy a empalar er aviso,0,CATEGORICAL,0,0
+458,458,24527,Hate,"Tu eres mas hijo de puta por insultar de esa forma, respeta para que te respeten mamarracho.",0,CATEGORICAL,0,0
+459,459,24529,Hate,Cllate rata MUDera.eres escoria.,0,CATEGORICAL,0,0
+460,460,24536,Hate,Eres una perra que no merece a sus amigos Quieres ser mi amigo/a? Tal vez a ti s te merezca.,1,CATEGORICAL,0,0
+461,461,24544,Hate,por qu Dios hizo a las mujeres con los pies ms pequeos? Para que puedan acercarse ms al fregadero.,1,CATEGORICAL,0,0
+462,462,24564,Hate,"Muchos Venezolanos (no generalic) llamaron por aos: Ladrones a los Chinos Tacaos a los rabes Malagente a los Colombianos Indios y feos a los Peruanos Vagos a los Panameos Y ahora, esos mismos se indignan cuando los llaman Venecos en otro lado.",1,CATEGORICAL,0,0
+463,463,24569,Hate,"odio que me recuerden que maana Agustn cumple veinticuatro aos, o sea LA PUTA MADRE CALLATE QUE SUFRO PELOTUDA.",0,CATEGORICAL,0,0
+464,464,24576,Hate,"Que si que te calles mono, a la puta selva a llorar basura",0,CATEGORICAL,0,0
+465,465,24590,Hate,"SOMOS MUCHO MS DE LO QUE SUEAS SER PINCH SUDACA CAGADO, y si no te gusta dime donde nos topamos pa reventarnos el hocico :1",1,CATEGORICAL,0,0
+466,466,24624,Hate,"No teneis ni zorra idea de la constitucin. No todos los articulos (unos tienen mas transcendencia que otros) se reforman igual. Dependiendo cual sea, se reforma a travs del o del . El por el . El dos por el . h",0,CATEGORICAL,0,0
+467,467,24625,Hate,EN LA PRIMERA PARTIDA ME HE COMIDO UNA POLLA POR IMBECIL VAMOS A LA SEGUNDA,0,CATEGORICAL,0,0
+468,468,24632,Hate,Ahora si!!! Hoy empieza la lucha!! Esto es cosa de hombres!!,0,CATEGORICAL,0,0
+469,469,24646,Hate,Iros de una puta vez Zidane y Benzema. Ya no merecis llevar esa camiseta ni ese escudo...,0,CATEGORICAL,0,0
+470,470,24649,Hate,yo me pregunto como es el teclado de los que escriben en arabe,0,CATEGORICAL,0,0
+471,471,24651,Hate,Jajajajajajajajajajajaajaj mike cb yo te amo cc tu eres una puta comida cb sabe que nos debe una comidita,0,CATEGORICAL,0,0
+472,472,24677,Hate,ni laurita ni fede ni florencia jEY MAMMON SE MERECIA GANAR EL BAILANDO LA PUTA MADRE,0,CATEGORICAL,0,0
+473,473,24686,Hate,No me gusta el titular. Culpabilizar a la inmigracin del populismo? El populusmo es quien uso cualquier hecho para agitar.El riesgo populista en Espaa por la tensin migratoria pone en alerta a Bruselas va,0,CATEGORICAL,100,100
+474,474,24691,Hate,Tu eres un imbcil maleducado que no tienes ni puta idea. Dicho esto paso de ti.,0,CATEGORICAL,0,0
+475,475,24692,Hate,omegle nia rabe jugando para m,0,CATEGORICAL,0,0
+476,476,24696,Hate,Como t eres otra VAGA perra desgraciada ladrona,1,CATEGORICAL,0,0
+477,477,24701,Hate,Cllate perra es mioo,1,CATEGORICAL,0,0
+478,478,24705,Hate,"que fan que sos man la puta madre callate gordo hijo de mil puta, porque voy en donde estes y te juro que te pego una revolcada de pias que no te imaginas lol",0,CATEGORICAL,800,700
+479,479,24733,Hate,Racismo es no permitir que te eche mis geros en la espalda.,0,CATEGORICAL,0,0
+480,480,24736,Hate,"Siempre hay una amiga del novio que por ms inocente que sea para uno de novia es la perra hijueputa, que stress prro.",1,CATEGORICAL,0,0
+481,481,24746,Hate,muestra como teni esa vagina de puta caliente llena de moco wacha culia hija de la perra traga semen :146,1,CATEGORICAL,0,0
+482,482,24768,Hate,".Sera casualidad que cuando hay una gran entrada de refugiados rabes en Europa, un grupo de rabes atenta. .Cuando hay una gran entrada de Africanos en Europa, un grupo de Africanos atenta. .Chinos, preparaos!",1,CATEGORICAL,0,0
+483,483,24773,Hate,"No hay nada que merezca ms la pena, que mi perra",0,CATEGORICAL,0,0
+484,484,24817,Hate,Ya empezamos con las tonteras!!! Lo ha hecho de puta madre coo! Que viva Ana War,0,CATEGORICAL,0,0
+485,485,24821,Hate,Orita mi perra me despert para ensearme su nuevo peluche fav,0,CATEGORICAL,0,0
+486,486,24822,Hate,'A m slo me gustan las tas si son guarras'. Para m est claro que si usa guarra para adjetivar el tipo de mujeres que le gusta no debe de asociarle las mismas connotaciones negativas que presuponis. Tengo amigas que se autoadjetivan,1,CATEGORICAL,0,0
+487,487,24845,Hate,Otra verguenza que tenemos que soportar los espaoles de estos negratas manteros.,1,CATEGORICAL,0,0
+488,488,24864,Hate,rosalia me podra decir sudaca i wouldn't give a fuck,1,CATEGORICAL,-400,600
+489,489,24870,Hate,"T eres el hijo de perra, voy a explotar perro",0,CATEGORICAL,0,0
+490,490,24895,Hate,"El de mi polla a granel. Que te calles, virgen.",1,CATEGORICAL,0,0
+491,491,24907,Hate,"La Polica tramita en Algeciras expedientes al da de inmigrantes indocumentados va . Miles al da ,que entran . Qu no caben leche . Qu lo piensan todo el mundo y El Gobierno NO hace NADA.Nos tenemos que ir Los Espaoles,para que entren?",1,CATEGORICAL,0,0
+492,492,24909,Hate,"Mientras los ciudadanos de a pie(ahora ms que nunca ""a pie"") enfrentamos la inseguridad a diario, sin armas, solo con valor y bolas (no hay otra), al indocumentado impostor lo rodearon con esterillas protectoras (intiles ante un RPG)",1,CATEGORICAL,0,0
+493,493,24925,Hate,"La verdad que si, no veia la hora de llegar a los mil amigos ahora de a poco voy borrando esos indios indocumentados",1,CATEGORICAL,0,0
+494,494,24928,Hate,"Hoy, hrs, haremos un twittazo en contra Rodolfo Noriega, quien, pese a ser un incitador al odio e inmigrante, sigue en Chile. El hashtag, ser .",1,CATEGORICAL,0,0
+495,495,24930,Hate,"Habe pasame el video donde adan diga puta a las mujeres sevillistas...'MI NOVIA ES SEVILLISTA',no dice TODAS LAS SEVILLISTAS.",1,CATEGORICAL,0,0
+496,496,24953,Hate,"Callate hijo de perra , como estas amor?",0,CATEGORICAL,0,0
+497,497,24973,Hate,pero tu eres un autntico imbcil y un potencial machista? ideologa de izquierdas? T eres una vergenza.,0,CATEGORICAL,0,0
+498,498,24983,Hate,"callate q le paso a mili, m paso ami, faltas vos gorda puta todo es posible",1,CATEGORICAL,0,0
+499,499,24986,Hate,"Traduccin: ""Escucha puta sueca!"" ""Los rabes estamos aqu para apoderarnos de vuestro jodido pas! Ponte de rodillas y chupame la polla""!",1,CATEGORICAL,0,0
