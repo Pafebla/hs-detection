@@ -6,4 +6,4 @@ In this repository you will find the data, tools and other resources used for th
   &emsp; /xlm-T_finetune: in this directory we can find the juputer notebooks used to finetune the pre-existing multilingual model xlm-T <br /><br />
 
 
-&emsp; https://drive.google.com/drive/folders/1x902EQVgdavaMDDf9awbNZVIKbjAq4tT?usp=sharing : Link to the HuggingFace Transformers' source code. It is customized, so we can train our models with custom data (such as HatEval or Hasoc datasets)<br /><br />
+&emsp; Link to the HuggingFace Transformers' source code. It is customized, so we can train our models with custom data (such as HatEval or Hasoc datasets): https://drive.google.com/drive/folders/1x902EQVgdavaMDDf9awbNZVIKbjAq4tT?usp=sharing  <br /><br />
